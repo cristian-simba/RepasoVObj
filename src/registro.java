@@ -49,6 +49,7 @@ public class registro {
                     catch (IOException ex){
                         throw new RuntimeException(ex);
                     }
+
                 }
 
                 marca.setText("");
